@@ -1,4 +1,4 @@
-tup =(2,5,3,"bright")
+tup =(2,5,3,"bright") #tuple cannot change and are indicated by small brackets
 print(type(tup),tup)
 print(tup[0])
 print(tup[1])
